@@ -1,0 +1,29 @@
+body {
+font-family: Arial, sans-serif;
+background: linear-gradient(to right, #ff9a9e, #fad0c4);
+text-align: center;
+padding: 40px;
+}
+
+
+h1 { color: #b30059; }
+
+
+.btn {
+display: inline-block;
+margin: 20px;
+padding: 15px 25px;
+background: #ff3366;
+color: white;
+text-decoration: none;
+border-radius: 10px;
+font-size: 18px;
+}
+
+
+.btn:hover { background: #cc0052; }
+
+
+.photo {
+width: 200px;
+border-radius: 15px
